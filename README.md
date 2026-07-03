@@ -5,6 +5,7 @@
 Built at [GovTech Hackathon 2026](https://hack.govtech.ch) in partnership with swisstopo, BAFU (FOEN), and MeteoSwiss.
 
 [Live Demo (GitHub Pages)](https://cboodnee.github.io/Drought-Briefing/) · [Streamlit Cloud](https://drought-briefing.streamlit.app/)
+
 **[BETA VERSION Here swisstopo.github.io/topo-drought-briefing](https://swisstopo.github.io/topo-drought-briefing)**
 
 ---
